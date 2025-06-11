@@ -11,10 +11,10 @@ A classic two-player Tic Tac Toe game implemented as a command-line interface. P
 
  3. How It Works
 
-1. The board is represented by a list of 9 cells numbered 1–9.
-2. Players input a number to place their symbol.
-3. The game checks for winning combinations (rows, columns, diagonals) or a full board.
-4. The board is re-displayed each turn to reflect the current state.
+ . The board is represented by a list of 9 cells numbered 1–9.
+ . Players input a number to place their symbol.
+ . The game checks for winning combinations (rows, columns, diagonals) or a full board.
+ . The board is re-displayed each turn to reflect the current state.
 
 4.Features of this implementation:
 
